@@ -1,0 +1,36 @@
+body{
+    height: 490px;
+    width: 500px;
+    margin: 50px auto;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+.main-container{
+    background: #d3d3d3;
+    padding: 50px 0;
+}
+
+.greeting-img{
+    height: 250px;
+    width: 250px;
+}
+
+.link-button {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 6px 12px;
+    margin-top: 35px;
+    text-decoration: none;
+    color: black;
+    background-color: buttonface;
+}
+
+.link-button.link {
+    margin-top: 0;
+}
+
+.greet-text {
+    margin: 9px 0;
+}
